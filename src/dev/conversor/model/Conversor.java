@@ -1,7 +1,6 @@
-package dev.conversor.ui;
+package dev.conversor.model;
 
 import com.google.gson.Gson;
-import dev.conversor.model.Moneda;
 
 public class Conversor {
 
